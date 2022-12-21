@@ -1,1 +1,1 @@
-# Predict_MNIST_v2
+# Predict_MNIST
